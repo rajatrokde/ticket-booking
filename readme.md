@@ -37,3 +37,41 @@ flight booking output
 
 Step 9: Explore manipulating.
 Final step , Login from the User’s login side. Just provide the Admin’s login detail, it will redirect you to Admin panel.
+
+--------------------------------------------------------------------*******************------------------------------
+
+Ticket Booking System
+This is a simple ticket booking system that allows users to book tickets for movies and events. The system is built using Node.js, Express, and MongoDB.
+Installation
+1.	Clone the repository.
+2.	Install the dependencies using npm install.
+3.	Start the server using npm start.
+Usage
+1.	Open the project in your web browser.
+2.	Register for an account or log in if you already have one.
+3.	Browse the available movies and events.
+4.	Select the movie or event you want to book tickets for.
+5.	Choose the number of tickets you want to book.
+6.	Confirm your booking and make the payment.
+APIs
+This project uses the following APIs:
+•	/api/movies: Returns a list of all available movies.
+•	/api/movies/:id: Returns details of a specific movie.
+•	/api/events: Returns a list of all available events.
+•	/api/events/:id: Returns details of a specific event.
+•	/api/bookings: Allows users to book tickets for movies and events.
+Troubleshooting
+If you encounter any issues while installing or using this project, try the following:
+•	Check that all dependencies are installed correctly.
+•	Ensure that your internet connection is stable.
+•	Contact the project maintainer for further assistance.
+License
+This project is licensed under the MIT License.
+Contributing
+Contributions are welcome! If you would like to contribute to this project, please follow these steps:
+1.	Fork the repository.
+2.	Create a new branch for your changes.
+3.	Make your changes and commit them.
+4.	Push your changes to your fork.
+5.	Submit a pull request to the original repository.
+
