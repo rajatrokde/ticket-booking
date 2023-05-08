@@ -1,5 +1,5 @@
 Airline Reservation System PHP Project With Source Code steps on how to run the project
-Time needed: 5 minutes.
+
 
 These are the steps on how to run Airline Reservation System PHP Project With Source Code
 
