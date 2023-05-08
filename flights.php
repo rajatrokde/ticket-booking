@@ -19,7 +19,7 @@ if($_SERVER['REQUEST_METHOD'] == "POST"){
                                 <form id="manage-filter"  action="index.php?page=flights" method="POST">
                                     <div class="row form-group">
                                         <div class="col-sm-3">
-                                            <label for="" class="control-label">From</label>
+                                            <label for="" class="control-label">Ffrom</label>
                                             <select name="departure_airport_id" id="departure_location" class="custom-select browser-default select2">
                                                 <option value=""></option>
                                             <?php
